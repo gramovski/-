@@ -1,4 +1,11 @@
- ГЛОБАЛЕН НАУЧЕН ПРОТОКОЛ: МЕТОД „ГРАМОВСКИ“ (2026)
+ Gramovski Method
+
+Author: Hristo  
+Year: 2026  
+
+This document describes an original model for seismic analysis based on metabolic response and global bioresonance.
+
+All rights reserved by the author. НАУЧЕН ПРОТОКОЛ: МЕТОД „ГРАМОВСКИ“ (2026)
 Главен изследовател: Христо Георгиев Грамовски
 Локация на проекта: гр. Кнежа, България (ул. „Неофит Бозвели“ № 10)
 Статус на системата: КРИТИЧЕН ФАЗОВ РЕЗОНАНС (Ip > 99.0)
