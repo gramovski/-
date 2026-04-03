@@ -1,4 +1,34 @@
-Markdown
+MarkdownDeveloping a hypothesis on biogeochemical indicators for short-term  activity – looking for expert feedback.
+
+I am exploring a concept where microbial metabolic activity is treated as an indirect sensor of tectonic stress. The core assumption is that microorganisms do not respond to mechanical motion itself, but to geochemically induced changes (gas flux, mineral composition, redox conditions) associated with stress accumulation in fault systems.
+
+In a controlled low-organic environment (low BOD, presence of nitrates, mineral-rich conditions), I observed:
+
+reduction in organic load (BOD decrease)
+
+persistence of nitrates
+
+transient peaks in nitrogen compounds followed by a decline
+
+This led to a working hypothesis:
+
+t_quake ≈ k / (dε/dt)
+
+where ε(t) represents enzymatic/metabolic response and dε/dt its rate of change.
+
+Interpretation:An accelerated metabolic response may reflect increasing geochemical flux driven by tectonic stress, implying a shorter time to a potential seismic event.
+
+I am particularly interested in feedback on:
+
+Existing research linking microbial activity to pre-seismic geochemical signals
+
+Plausibility of using metabolic rate as a proxy for stress-induced geochemical flux
+
+Suggestions for experimental validation or measurable parameters (e.g. redox, gas composition, nitrogen cycling)
+
+Concept description:https://github.com/gramovski/-
+
+All critical feedback is welcome.
 # Gramovski Method
 
 **Author:** Hristo  
