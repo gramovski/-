@@ -78,4 +78,63 @@ Experimental validation, data collection, and reproducibility studies are requir
 ## Author Statement
 The Gramovski Method is an original concept developed by the author.
 
-All rights reserved.
+All rights reserved."""
+MIT License
+Copyright (c) 2026 Hristo Gramovski (gramovskii@gmail.com)
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+"""
+
+import math
+import datetime
+
+class ArgusAlgorithm:
+    def __init__(self, initial_epsilon=0.99):
+        # Ензимна памет (epsilon) - биохимичен отпечатък от тектонски стрес
+        self.epsilon = initial_epsilon
+        self.ip_index = 0.0
+        self.target_region = "Svartsengi, Iceland"
+
+    def calculate_ip(self, n2o_flux, bio_resonance_delta):
+        """
+        Математическо ядро на Метода 'Грамовски'.
+        Изчислява Ip индекса чрез корелация между метаболитния поток 
+        и планетарния резонанс, уловен в Хъб Кнежа (ул. Неофит Бозвели 10).
+        """
+        # Интегрално натрупване на Ензимна памет
+        if n2o_flux > 0.85:
+            self.epsilon += (n2o_flux * 0.005)
+        
+        # Експоненциална функция на био-реакцията
+        raw_ip = (n2o_flux * math.exp(self.epsilon)) + bio_resonance_delta
+        
+        # Нормализиране към скала 0-100
+        self.ip_index = min(100.0, raw_ip * 10.2)
+        return round(self.ip_index, 2)
+
+    def status_report(self):
+        if self.ip_index >= 99.9:
+            return "ALARM: TERMINAL RUPTURE PHASE (Est. 6.1 - 6.2 Mw)"
+        return "MONITORING: STABLE ACCUMULATION"
+
+# --- СТАРТ НА МОНИТОРИНГА ---
+if __name__ == "__main__":
+    # Калибриране за текущото натрупване от 23.4 млн. m3 магма
+    hristo_hub = ArgusAlgorithm(initial_epsilon=0.998)
+    
+    # Реални стойности към 03.04.2026
+    current_ip = hristo_hub.calculate_ip(n2o_flux=0.96, bio_resonance_delta=0.05)
+    
+    print(f"--- GRAMOVSKI METHOD HUB (KNEJA) ---")
+    print(f"TIMESTAMP: {datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
+    print(f"CURRENT Ip INDEX: {current_ip}")
+    print(f"SYSTEM STATUS: {hristo_hub.status_report()}")
+
