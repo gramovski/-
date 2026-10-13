@@ -1,8 +1,10 @@
 # Научен статус / Scientific status
 
-Updated: 2026-10-12. Concept author: Hristo Georgiev Gramovski.
+Updated: 2026-10-13. Concept author: Hristo Georgiev Gramovski.
 
 ## Български
+
+Текущо име: **Метод на георедокс динамиката (МГД)**. Автор: **Христо Георгиев Грамовски**. Новото име е прието на 13.10.2026; по-ранните материали използват „Метод Грамовски“. MMII остава името на предложения индикатор. Преименуването не променя формулата или научния статус.
 
 - ORP/Eh динамиката и MMII са обект на изследване; прогнозна способност не е установена.
 - Хипотезите за глобален метаболитен резонанс, ензимна памет и следпиково време до земетресение изискват независими измервания и проверки.
@@ -14,6 +16,8 @@ Updated: 2026-10-12. Concept author: Hristo Georgiev Gramovski.
 Предишният README е запазен в [историята на GitHub](https://github.com/gramovski/-/blob/dcba7571780c333aa6e68854040ddf69de424058/README.md). Съдържанието там е историческо и включва непотвърдени твърдения.
 
 ## English
+
+Current name: **Georedox Dynamics Method**. Author: **Hristo Georgiev Gramovski**. The name was adopted on 2026-10-13; earlier materials use “Gramovski Method.” MMII remains the name of the proposed indicator. Renaming changes neither the formula nor the scientific status.
 
 ORP/Eh dynamics and MMII remain research subjects; predictive capability is unestablished. Global metabolic resonance, enzyme memory, and post-peak timing require independent measurements and validation.
 
