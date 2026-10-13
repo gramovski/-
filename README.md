@@ -1,4 +1,4 @@
-# Метод Грамовски / Gramovski Method
+# Метод на георедокс динамиката / Georedox Dynamics Method
 
 **Автор на концепцията / Concept author: Христо Георгиев Грамовски — Hristo Georgiev Gramovski**  
 **Начало на проекта / Project initiated: 2026**  
@@ -8,9 +8,9 @@
 
 ## Кратко представяне / Research overview
 
-**Метод Грамовски (Gramovski Method), MMII — ORP/Eh, микробен метаболизъм и сеизмогеохимия.** Изследователски проект на **Христо Георгиев Грамовски / Hristo Georgiev Gramovski**, започнат през 2026 г. Целта е да се проверят възможни връзки между редокс динамиката и сеизмичните процеси чрез открити данни, контролни сравнения и възпроизводим анализ. Прогнозната способност не е установена.
+**Метод на георедокс динамиката (Georedox Dynamics Method), MMII — ORP/Eh, микробен метаболизъм и сеизмогеохимия.** Изследователски проект на **Христо Георгиев Грамовски / Hristo Georgiev Gramovski**, започнат през 2026 г. Целта е да се проверят възможни връзки между редокс динамиката и сеизмичните процеси чрез открити данни, контролни сравнения и възпроизводим анализ. Прогнозната способност не е установена.
 
-**Gramovski Method, MMII — oxidation–reduction potential, microbial metabolism and seismogeochemistry.** A research project by **Hristo Georgiev Gramovski**, initiated in 2026, testing possible relationships between redox dynamics and seismic processes using open data, controls and reproducible analysis. Predictive capability has not been established.
+**Georedox Dynamics Method, MMII — oxidation–reduction potential, microbial metabolism and seismogeochemistry.** A research project by **Hristo Georgiev Gramovski**, initiated in 2026, testing possible relationships between redox dynamics and seismic processes using open data, controls and reproducible analysis. Predictive capability has not been established.
 
 ### Научен интерес и сътрудничество / Research interest and collaboration
 
@@ -24,11 +24,13 @@ Independent validation, critical discussion and suggestions for public continuou
 
 ### Цел и работна хипотеза
 
-„Метод Грамовски“ е изследователска концепция за проверка на възможна връзка между динамиката на редокс потенциала (ORP/Eh), микробния метаболизъм и сеизмогеохимичните процеси.
+„Метод на георедокс динамиката“ е изследователска концепция за проверка на възможна връзка между динамиката на редокс потенциала (ORP/Eh), микробния метаболизъм и сеизмогеохимичните процеси.
 
 Промени в газовите потоци и химичните условия могат да променят микробния метаболизъм и измервания редокс потенциал. Изследват се редокс състояния, преходи, пикове, плато и следпиково поведение. Възможният сеизмичен произход на тези изменения подлежи на проверка.
 
 ### MMII
+
+ORP/Eh отразява редокс условията в средата. Самостоятелно измерване на ORP/Eh не доказва микробен метаболитен отклик или сеизмичен произход; тези интерпретации изискват допълнителни измервания и контролни сравнения.
 
 За измерваната редокс серия ε(t) е предложен Microbial Metabolic Instability Indicator:
 
@@ -55,17 +57,19 @@ Independent validation, critical discussion and suggestions for public continuou
 
 ### Авторство
 
-При описване на концепцията използвайте: **„Метод Грамовски — изследователска концепция на Христо Георгиев Грамовски, 2026.“** Атрибуцията не е твърдение за научно потвърждение или удостоверен патентен статут.
+При описване на концепцията използвайте: **„Метод на георедокс динамиката — изследователска концепция на Христо Георгиев Грамовски, 2026.“** Атрибуцията не е твърдение за научно потвърждение или удостоверен патентен статут.
 
 ## English
 
 ### Purpose and working hypothesis
 
-The Gramovski Method is a research concept investigating possible relationships between oxidation–reduction potential (ORP/Eh), microbial metabolism, and seismogeochemical processes.
+The Georedox Dynamics Method is a research concept investigating possible relationships between oxidation–reduction potential (ORP/Eh), microbial metabolism, and seismogeochemical processes.
 
 Changes in gas fluxes and chemical conditions may alter microbial metabolism and measured redox potential. The proposed analysis examines redox states, transitions, peaks, plateaus, and post-peak behavior. A possible seismic origin remains a hypothesis to be tested.
 
 ### MMII
+
+ORP/Eh reflects environmental redox conditions. An ORP/Eh measurement alone does not establish a microbial metabolic response or seismic origin; these interpretations require additional measurements and controls.
 
 For the measured redox series ε(t), the proposed Microbial Metabolic Instability Indicator is:
 
@@ -85,7 +89,7 @@ See the linked documents above for the protocol, status, code, contribution guid
 
 ### Author attribution
 
-Use: **“Gramovski Method — a research concept by Hristo Georgiev Gramovski, 2026.”** Attribution does not assert scientific validation or verified patent status.
+Use: **“Georedox Dynamics Method — a research concept by Hristo Georgiev Gramovski, 2026.”** Attribution does not assert scientific validation or verified patent status.
 
 ## Демонстрация / Demonstration
 
