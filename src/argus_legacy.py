@@ -31,6 +31,6 @@ class ArgusAlgorithm:
 if __name__ == "__main__":
     demo = ArgusAlgorithm(initial_epsilon=0.998)
     score = demo.calculate_ip(n2o_flux=0.96, bio_resonance_delta=0.05)
-    print("GRAMOVSKI METHOD — SYNTHETIC LEGACY EXAMPLE")
+    print("GEOREDOX DYNAMICS METHOD — SYNTHETIC LEGACY EXAMPLE")
     print(f"Arbitrary Ip score: {score}")
     print(demo.status_report())
