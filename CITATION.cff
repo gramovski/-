@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "Please attribute the Gramovski Method research concept to Hristo Georgiev Gramovski."
+title: "Gramovski Method: ORP/Eh and MMII research concept"
+type: software
+authors:
+  - family-names: "Gramovski"
+    given-names: "Hristo Georgiev"
+repository-code: "https://github.com/gramovski/-"
+url: "https://github.com/gramovski/-"
+license: MIT
