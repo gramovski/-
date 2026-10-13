@@ -4,6 +4,8 @@
 **Начало на проекта / Project initiated: 2026**  
 **Актуализация / Updated: 13 October 2026**
 
+**Публична страница / Public research website:** [Български](https://gramovski-method.ochremoth32.chatgpt.site/) · [English](https://gramovski-method.ochremoth32.chatgpt.site/en/)
+
 ## Кратко представяне / Research overview
 
 **Метод Грамовски (Gramovski Method), MMII — ORP/Eh, микробен метаболизъм и сеизмогеохимия.** Изследователски проект на **Христо Георгиев Грамовски / Hristo Georgiev Gramovski**, започнат през 2026 г. Целта е да се проверят възможни връзки между редокс динамиката и сеизмичните процеси чрез открити данни, контролни сравнения и възпроизводим анализ. Прогнозната способност не е установена.
