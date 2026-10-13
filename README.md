@@ -2,7 +2,21 @@
 
 **Автор на концепцията / Concept author: Христо Георгиев Грамовски — Hristo Georgiev Gramovski**  
 **Начало на проекта / Project initiated: 2026**  
-**Актуализация / Updated: 12 October 2026**
+**Актуализация / Updated: 13 October 2026**
+
+## Кратко представяне / Research overview
+
+**Метод Грамовски (Gramovski Method), MMII — ORP/Eh, микробен метаболизъм и сеизмогеохимия.** Изследователски проект на **Христо Георгиев Грамовски / Hristo Georgiev Gramovski**, започнат през 2026 г. Целта е да се проверят възможни връзки между редокс динамиката и сеизмичните процеси чрез открити данни, контролни сравнения и възпроизводим анализ. Прогнозната способност не е установена.
+
+**Gramovski Method, MMII — oxidation–reduction potential, microbial metabolism and seismogeochemistry.** A research project by **Hristo Georgiev Gramovski**, initiated in 2026, testing possible relationships between redox dynamics and seismic processes using open data, controls and reproducible analysis. Predictive capability has not been established.
+
+### Научен интерес и сътрудничество / Research interest and collaboration
+
+Приветстваме независими проверки, критични обсъждания и предложения за публични непрекъснати ORP/Eh серии със съпътстващи екологични измервания. Използвайте [Issues](https://github.com/gramovski/-/issues) за въпроси и предложения или pull request за конкретни промени. Прилагайте източник, период, място, единици и ограничения на данните. Публикувайте само информация, която желаете да бъде публична.
+
+Independent validation, critical discussion and suggestions for public continuous ORP/Eh datasets with environmental controls are welcome. Use [Issues](https://github.com/gramovski/-/issues) for questions and proposals, or a pull request for specific changes. Include the source, dates, location, units and data limitations.
+
+---
 
 ## Български
 
